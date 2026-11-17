@@ -2,7 +2,7 @@
 
 一份关于云南德钦高海拔河谷葡萄园的数据叙事：把海拔剖面、面积口径分歧、品种、气候与公开来源放在同一张可核查的静态页面上。
 
-[![CI](https://github.com/YilongXiao/yunnan-vineyard-atlas/actions/workflows/ci.yml/badge.svg)](https://github.com/YilongXiao/yunnan-vineyard-atlas/actions/workflows/ci.yml)
+[![CI](https://github.com/uppercrusteve/yunnan-vineyard-atlas/actions/workflows/ci.yml/badge.svg)](https://github.com/uppercrusteve/yunnan-vineyard-atlas/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-d9b36c.svg)](LICENSE)
 [![Node 22](https://img.shields.io/badge/node-22.x-3c873a.svg)](package.json)
 [![No framework](https://img.shields.io/badge/frontend-no%20framework-8a6f5c.svg)](package.json)
@@ -24,7 +24,7 @@
 Windows PowerShell：
 
 ```powershell
-git clone https://github.com/YilongXiao/yunnan-vineyard-atlas.git
+git clone https://github.com/uppercrusteve/yunnan-vineyard-atlas.git
 Set-Location yunnan-vineyard-atlas
 npm ci
 ```
@@ -32,7 +32,7 @@ npm ci
 macOS / Linux：
 
 ```bash
-git clone https://github.com/YilongXiao/yunnan-vineyard-atlas.git
+git clone https://github.com/uppercrusteve/yunnan-vineyard-atlas.git
 cd yunnan-vineyard-atlas
 npm ci
 ```
@@ -123,7 +123,7 @@ Vitest 共 5 个测试文件、58 个测试，覆盖：
 ```text
 Yilong Xiao. (2026). 云岭之上：香格里拉高原葡萄园图集
 (Above the Clouds: A Shangri-La Vineyard Atlas) (v0.1.0) [Computer software].
-https://github.com/YilongXiao/yunnan-vineyard-atlas
+https://github.com/uppercrusteve/yunnan-vineyard-atlas
 ```
 
 ## English summary

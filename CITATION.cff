@@ -13,8 +13,8 @@ version: 0.1.0
 date-released: 2026-11-17
 license: MIT
 type: software
-repository-code: "https://github.com/YilongXiao/yunnan-vineyard-atlas"
-url: "https://github.com/YilongXiao/yunnan-vineyard-atlas"
+repository-code: "https://github.com/uppercrusteve/yunnan-vineyard-atlas"
+url: "https://github.com/uppercrusteve/yunnan-vineyard-atlas"
 keywords:
   - yunnan
   - vineyard
