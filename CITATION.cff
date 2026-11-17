@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this atlas or its data bundle, please cite it as below."
+title: "云岭之上：香格里拉高原葡萄园图集 (Above the Clouds: A Shangri-La Vineyard Atlas)"
+abstract: >-
+  A static data narrative of high-altitude vineyards in Deqin County, Yunnan.
+  Four conflicting published area figures are kept side by side rather than
+  averaged; maps and the 6.5 °C/km lapse-rate illustration are explicitly
+  schematic; all figures carry a year and a clickable public source.
+authors:
+  - family-names: Xiao
+    given-names: Yilong
+version: 0.1.0
+date-released: 2026-11-17
+license: MIT
+type: software
+repository-code: "https://github.com/YilongXiao/yunnan-vineyard-atlas"
+url: "https://github.com/YilongXiao/yunnan-vineyard-atlas"
+keywords:
+  - yunnan
+  - vineyard
+  - viticulture
+  - data-storytelling
+  - shangri-la
+  - static-site
