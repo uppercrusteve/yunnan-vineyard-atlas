@@ -1,0 +1,30 @@
+{
+  "name": "yunnan-vineyard-atlas",
+  "version": "0.1.0",
+  "description": "A static data narrative of high-altitude vineyards in Deqin, Yunnan: elevation profile, schematic valleys, conflicting area figures and sources.",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-data.mjs",
+    "pretest": "node scripts/build-data.mjs",
+    "test": "vitest run",
+    "serve": "node scripts/serve.mjs",
+    "screenshot": "node scripts/screenshot.mjs",
+    "check": "npm run build && npm test && node scripts/check-page.mjs"
+  },
+  "keywords": [
+    "yunnan",
+    "vineyard",
+    "data-storytelling",
+    "static-site",
+    "shangri-la"
+  ],
+  "author": "Yilong Xiao",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1",
+    "vitest": "^3.2.7"
+  }
+}

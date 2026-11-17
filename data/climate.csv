@@ -1,0 +1,9 @@
+id,metric,label_zh,label_en,value_min,value_max,unit,year,source_id,note
+precip_s4,precipitation,年降水量,Annual precipitation,300,600,mm,2022,S4,"综述口径；降水集中于 5–7 月，蒸发量远大于降水"
+precip_s6,precipitation,年降水量,Annual precipitation,300,800,mm,2026,S6,"雨影河谷报道口径，上限高于 S4"
+sunshine_s4,sunshine,年日照时数,Annual sunshine hours,1743,2187,h,2022,S4,"综述口径，日照百分率 40%–49%"
+sunshine_s7,sunshine,年日照时数,Annual sunshine hours,2000,2600,h,2025,S7,"推介会报道口径，与 S4 并列，不取平均"
+growing_days,growing_season,生育期,Growing season,180,200,天,2022,S4,"按萌芽至采收的公开描述折算的示意范围；原文未直接给天数"
+elevation_s4,elevation,园地海拔,Vineyard elevation,1700,2800,m,2022,S4,"河谷栽培带；个别园地可达 2890 m"
+elevation_s6,elevation,园地海拔,Vineyard elevation,1800,3000,m,2026,S6,"报道称 1800–3000 m，含高海拔试验地块"
+elevation_s7,elevation,园地海拔,Vineyard elevation,1700,3000,m,2025,S7,"2025 年报道口径，与 S4、S6 的上下限均不完全一致"

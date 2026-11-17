@@ -1,0 +1,4 @@
+id,type_zh,type_en,description,source_id
+soil_sandy,河谷砂质壤土,Sandy loam,"河谷冲积带质地偏砂，排水快，保水保肥能力有限",S4
+soil_gravel,砾石壤土,Gravelly loam,"坡脚与台地多砾石，通透性强，有机质偏低",S4
+soil_brown,褐土,Brown soil,"干燥河谷钙质土，石灰反应较强；在云南主要见于迪庆",S4

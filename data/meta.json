@@ -1,0 +1,13 @@
+{
+  "title": "云岭之上：香格里拉高原葡萄园图集",
+  "title_en": "Above the Clouds: A Shangri-La Vineyard Atlas",
+  "author": "Yilong Xiao",
+  "license": "MIT",
+  "updated": "2026-11-17",
+  "region": "中国云南省迪庆藏族自治州德钦县",
+  "coordinate_note": "示意地图不按经纬度投影；村庄位置仅保留河谷相对关系",
+  "lapse_rate_c_per_km": 6.5,
+  "base_elevation_m": 2200,
+  "base_temperature_c": 20,
+  "elevation_domain_m": [1600, 3100]
+}
