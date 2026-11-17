@@ -3,7 +3,7 @@ window.ATLAS_DATA = {
   "meta": {
     "title": "云岭之上：香格里拉高原葡萄园图集",
     "title_en": "Above the Clouds: A Shangri-La Vineyard Atlas",
-    "author": "Yilong Xiao",
+    "author": "uppercrusteve",
     "license": "MIT",
     "updated": "2026-11-17",
     "region": "中国云南省迪庆藏族自治州德钦县",

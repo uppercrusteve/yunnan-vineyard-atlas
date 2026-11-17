@@ -121,7 +121,7 @@ Vitest 共 5 个测试文件、58 个测试，覆盖：
 仓库附 [CITATION.cff](CITATION.cff)。GitHub 的“Cite this repository”可直接导出；手工引用：
 
 ```text
-Yilong Xiao. (2026). 云岭之上：香格里拉高原葡萄园图集
+uppercrusteve. (2026). 云岭之上：香格里拉高原葡萄园图集
 (Above the Clouds: A Shangri-La Vineyard Atlas) (v0.1.0) [Computer software].
 https://github.com/uppercrusteve/yunnan-vineyard-atlas
 ```
@@ -132,4 +132,4 @@ Above the Clouds is a static, framework-free data narrative about high-altitude 
 
 ## License
 
-[MIT](LICENSE) © 2026 Yilong Xiao
+[MIT](LICENSE) © 2026 uppercrusteve

@@ -7,8 +7,7 @@ abstract: >-
   averaged; maps and the 6.5 °C/km lapse-rate illustration are explicitly
   schematic; all figures carry a year and a clickable public source.
 authors:
-  - family-names: Xiao
-    given-names: Yilong
+  - name: "uppercrusteve"
 version: 0.1.0
 date-released: 2026-11-17
 license: MIT

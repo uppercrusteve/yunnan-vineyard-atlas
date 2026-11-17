@@ -18,7 +18,7 @@
     "static-site",
     "shangri-la"
   ],
-  "author": "Yilong Xiao",
+  "author": "uppercrusteve",
   "license": "MIT",
   "engines": {
     "node": ">=22"
