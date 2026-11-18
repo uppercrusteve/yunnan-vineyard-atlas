@@ -2,6 +2,12 @@
 
 格式遵循 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)，版本遵循 [Semantic Versioning](https://semver.org/lang/zh-CN/)。
 
+## [Unreleased]
+
+### Changed
+
+- `data/bundle.json` and `src/data.js` are rebuilt from the CSVs.
+
 ## [0.1.0] - 2026-11-17
 
 ### Added
