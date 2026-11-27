@@ -21,7 +21,7 @@
 
 需要 Node.js 22+ 与 npm 10+。仓库已提交 `package-lock.json`，请使用 `npm ci` 而不是 `npm install`。
 
-Windows PowerShell：
+Windows PowerShell:
 
 ```powershell
 git clone https://github.com/uppercrusteve/yunnan-vineyard-atlas.git
@@ -29,7 +29,7 @@ Set-Location yunnan-vineyard-atlas
 npm ci
 ```
 
-macOS / Linux：
+macOS / Linux:
 
 ```bash
 git clone https://github.com/uppercrusteve/yunnan-vineyard-atlas.git
